@@ -1,3 +1,3 @@
 # client
 
-client side coponent based lib for holajs
+client side component library for holajs
