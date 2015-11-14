@@ -1,10 +1,10 @@
-node_modules
-npm-debug.log
-build
-coverage
-
-# Exclude compiled files
+build/*
 lib
+node_modules/*
+*.log
+examples/node_modules
+examples/dist
+examples/*.log
 
 # Exclude IDE project folders
 .idea
